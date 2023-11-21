@@ -79,11 +79,3 @@ for (let i = 0; i < ourTeam.length; i++) {
 }
 
 
-/*for (let i = 0; i < ourTeam.length; i++) {
-   // document.getElementById("name").innerHTML = ourTeam[i].name;
-    //document.getElementById("surname").innerHTML = ourTeam[i].surname;
-    //document.getElementById("role").innerHTML = ourTeam[i].role;
-    //document.getElementById("picture").innerHTML = ourTeam[i].picture;
-    //document.getElementById("ourteam").innerHTML = ourTeam;
-
-}*/
